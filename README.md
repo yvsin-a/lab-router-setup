@@ -1,4 +1,4 @@
-# Script d'Automatisation pour la Configuration d'un Routeur
+# Script d'Automatisation pour la Configuration d'un routeur sous Ubuntu/Debian
 
 Ce script a été créé par **Emre A.** pour automatiser la configuration d'un routeur dans un environnement de laboratoire. Il configure le routage, le pare-feu, DHCP, DNS (Bind9), et les interfaces réseau via Netplan.
 
